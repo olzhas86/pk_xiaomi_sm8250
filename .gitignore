@@ -146,3 +146,4 @@ llvm.sh
 llvm.sh.1
 b.sh
 p.sh
+build.log
